@@ -1,7 +1,6 @@
 Hi, I’m Alex 👋
 
-I’m currently learning Front-End Web Development. ↔ HTML | CSS | JS | React
-
+I’m currently learning Front-End Web Development.
 You can also find me on <a href="https://www.linkedin.com/in/alexrossoni">Linkedin</a> 📝
 
 <!---
