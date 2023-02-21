@@ -1,8 +1,8 @@
-Hi, I’m Alex 👋
+Alex Jr. | Front-end developer | Instituto Federal do Espírito Santo
 
-I’m currently learning Front-End Web Development.
+Este é meu GitHub para repositórios de projetos pessoais ou de estudos.
 
-You can also find me on <a href="https://www.linkedin.com/in/alexrossoni">Linkedin</a> 📝
+Você também pode me encontrar no <a href="https://www.linkedin.com/in/alexrossoni">Linkedin</a>
 
 <!---
 alexrossoni/alexrossoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
