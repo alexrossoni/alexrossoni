@@ -1,6 +1,6 @@
-Alex Jr. | Front-end developer | Instituto Federal do Espírito Santo
+Alex Jr. | Desenvolvedor | Instituto Federal do Espírito Santo
 
-Este é meu GitHub para repositórios de projetos pessoais ou de estudos.
+Este é meu GitHub para repositórios de projetos pessoais ou acadêmicos.
 
 Você também pode me encontrar no <a href="https://www.linkedin.com/in/alexrossoni">Linkedin</a>
 
